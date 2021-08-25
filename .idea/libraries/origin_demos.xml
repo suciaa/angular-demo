@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="origin-demos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/origin-demos/angular-demo-cteate.angular.zip!/" />
+      <root url="jar://$PROJECT_DIR$/origin-demos/angular-demo-step2.angular.zip!/" />
+      <root url="jar://$PROJECT_DIR$/origin-demos/angular-demo-step3.angular.zip!/" />
+      <root url="jar://$PROJECT_DIR$/origin-demos/angular-demo-step1-.angular.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
