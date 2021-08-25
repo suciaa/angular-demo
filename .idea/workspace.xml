@@ -1,62 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6eb5b0a-5b9f-40a4-adce-759793133b13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/origin_demos.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/angular-demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/demo2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo1/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/angular-demo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo3/demo3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-demo2/tsconfig.spec.json" beforeDir="false" />
+    <list default="true" id="d6eb5b0a-5b9f-40a4-adce-759793133b13" name="Changes" comment="add angular demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +25,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo6" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/demo3/node_modules/typescript/lib" />
   </component>
@@ -165,7 +114,16 @@
       <option name="presentableId" value="Default" />
       <updated>1629864019413</updated>
       <workItem from="1629864032213" duration="991000" />
+      <workItem from="1629866857648" duration="927000" />
     </task>
+    <task id="LOCAL-00001" summary="add angular demo">
+      <created>1629867176281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629867176281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,5 +139,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add angular demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add angular demo" />
   </component>
 </project>
